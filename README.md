@@ -12,7 +12,7 @@ seaborn
 Installations
 The modules listed in the section above can be downloaded in the anaconda IDE (recommended software to run the ipynb files) using conda install module_name or the conventional pip install module_name
 
-Setup
+# Setup
 The recommended way to run the ipynb files is by setting up a virtual environment with conda and running the files in a jupyter notebook. Click here to learn how to set up and manage virtual environments with conda.
 
 The html files that contains all the necessary codes and findings are also available in the main branch
@@ -41,7 +41,7 @@ Known Bugs
 The files in this repo currently have no bugs.
 
 
-In this analysis, the following questions will be answered:
+# In this analysis, the following questions will be answered:
 
 1. How many victims were recorded all crime incidence?
 
@@ -61,8 +61,8 @@ In this analysis, the following questions will be answered:
 
 9. Which Agency has the most involvement and the least involvement in all crimes?
 
-Crime Against Property is the most occuring sort of crime. Crime is most rampant in the city of Silver Spring'.
-'3D' is the highest Police Distict Number.
-Silver Spring Police District Name is the highest Police District Name.
-Sector 'P' is the most occuring sector for crime.
-MCPD Agency has more involvements in crime in Montgomery.
+# Crime Against Property is the most occuring sort of crime. Crime is most rampant in the city of Silver Spring'.
+# '3D' is the highest Police Distict Number.
+# Silver Spring Police District Name is the highest Police District Name.
+# Sector 'P' is the most occuring sector for crime.
+# MCPD Agency has more involvements in crime in Montgomery.
